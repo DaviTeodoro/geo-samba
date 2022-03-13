@@ -1,9 +1,9 @@
 {
-  "name": "samba",
+  "name": "geo-samba",
   "version": "1.0.0",
-  "description": "samba",
+  "description": "samba my friend",
   "license": "MIT",
-  "repository": "DaviTeodoro/samba",
+  "repository": "DaviTeodoro/geo-samba",
   "source": "src/index.js",
   "files": [
     "dist"
